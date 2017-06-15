@@ -1,0 +1,6 @@
+framework module SDKPodTest {
+  umbrella header "SDKPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

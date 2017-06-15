@@ -1,0 +1,22 @@
+{
+  "name": "SDKPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of SDKPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chinthan.m@onepointglobal.com/SDKPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chinthan.m@onepointglobal.com": "chinthanm@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chinthan.m@onepointglobal.com/SDKPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDKPodTest/Classes/**/*"
+}
